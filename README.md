@@ -1,1 +1,1 @@
-https://ik.imagekit.io/laxaar/1686313855890ReactJS_2400x1200.png
+This repository is created to learn React step by step through practice. It covers basic React concepts like components, props, state, and hooks.
