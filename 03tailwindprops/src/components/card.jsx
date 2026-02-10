@@ -3,6 +3,7 @@ import React from 'react'
 function Card({username, btnText="visit me"}) {
     console.log(username);
 //btnText="visit me" if value is not pass then it default value appear
+    //in this code we use  {username, btnText="visit me"} in replace of props and we can access by props.username and so on  
 
 
   return (
